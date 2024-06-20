@@ -1,3 +1,4 @@
+#Soma de números de 1 a 100:
 soma = 0
 contador = 0 
 while True:
