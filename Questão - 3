@@ -1,3 +1,4 @@
+#Sequencia de números fibonacci
 n1 = 0
 n2 = 1
 numero_sequencia = int(input("Quantos termos quer que se mostrar? "))
